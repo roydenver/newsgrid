@@ -1,1 +1,2 @@
-###Newsgrid is simple UI for news website.
+#Newsgrid 
+A simple UI for news website.
