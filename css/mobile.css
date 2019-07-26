@@ -54,6 +54,10 @@
     grid-row: 1;
   }
 
+  .l-heading {
+    font-size: 2rem;
+  }
+
   /* Footer */
   #main-footer .footer-container {
     grid-template-columns: 1fr;
@@ -72,10 +76,6 @@
   #main-footer .footer-container > *:nth-child(2) {
     border-bottom: #444 dotted 1px;
     padding-bottom: 1rem;
-  }
-
-  .l-heading {
-    font-size: 2rem;
   }
 }
 
